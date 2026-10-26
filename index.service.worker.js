@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792947739|1799349';
+const CACHE_VERSION = '1793013512|1677233';
 /** @type {string} */
 const CACHE_PREFIX = 'Nuclima-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
